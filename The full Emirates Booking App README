@@ -1,0 +1,29 @@
+# Emirates Booking App ✈️
+
+A simple flight booking web application built using **Java**, **Spring Boot**, and **MySQL**.  
+It simulates basic airline ticket booking with clean code separation using MVC architecture.
+
+---
+
+## 🔧 Features
+
+- User-friendly booking interface (HTML-based)
+- RESTful API integration using Spring Boot
+- Booking records stored in MySQL database
+- Organized into Model, Controller, Service, and Repository layers
+- Tested using Postman
+
+---
+
+## 🛠 Tech Stack
+
+- Java 11  
+- Spring Boot  
+- MySQL  
+- HTML, CSS  
+- Postman  
+- GitHub (for version control)
+
+---
+
+## 📁 Project Structure
